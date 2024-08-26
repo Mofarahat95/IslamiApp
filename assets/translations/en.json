@@ -1,0 +1,21 @@
+{
+  "appBarTitle": "Islami",
+  "radioTap": "Radio",
+  "sephaTap": "Sepha",
+  "ahadethTap": "Ahadeth",
+  "quranTap": "Quran",
+  "settingsTap": "Settings",
+  "radioTitle": "Holy Quran Radio",
+  "sephaTitle": "Number of Tasbeehs",
+  "hadethTitle": "Hadiths",
+  "suraNameTitle": "Sura Name",
+  "numOfAyat": "Number of verses",
+  "themeTitle": "Theme",
+  "lightTitle": "Light",
+  "darkTitle": "Dark",
+  "languageTitle": "Language",
+  "enTitle": "English",
+  "arTitle": "Arabic"
+
+
+}

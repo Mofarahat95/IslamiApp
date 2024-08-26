@@ -1,0 +1,19 @@
+{
+  "appBarTitle": "إسلامي",
+  "radioTap": "الراديو",
+  "sephaTap": "السبحة",
+  "ahadethTap": "الأحاديث",
+  "quranTap": "القرأن",
+  "settingsTap": "الإعدادات",
+  "radioTitle": "إذاعة القرآن الكريم",
+  "sephaTitle": "عدد التسبيحات",
+  "hadethTitle": "الأحاديث",
+  "suraNameTitle": "إسم السورة",
+  "numOfAyat": "عدد الآيات",
+  "themeTitle": "المظهر",
+  "lightTitle": "نهاري",
+  "darkTitle": "ليلي",
+  "languageTitle": "اللغة",
+  "arTitle": "عربي",
+  "enTitle": "إنجليزي"
+}
